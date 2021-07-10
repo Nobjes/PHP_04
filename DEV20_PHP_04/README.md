@@ -26,7 +26,7 @@ PHPを使って、データベースに登録、表示、更新、削除でき�
  <img width="376" alt="スクリーンショット 2021-07-10 10 15 14" src="https://user-images.githubusercontent.com/83898539/125147670-bf29c980-e167-11eb-8b56-eeb1f116d5c6.png"><br>
 
 ●お店情報を登録すると、順位表示画面に繊維。<br>
- 登録した情報が表示される。
+ 登録した情報が表示される。<br>
 <img width="377" alt="スクリーンショット 2021-07-10 10 10 14" src="https://user-images.githubusercontent.com/83898539/125147697-e08ab580-e167-11eb-9de7-e3175353c840.png"><br>
 
 
